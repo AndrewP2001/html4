@@ -4,13 +4,6 @@
 <link href="main.css" type="text/css" rel="stylesheet">
 </head>
 <body>
-<h1>Hello Andrew!</h1>
-
-
-
-
-
-
     <div id="container">
     <header>Save our Planet</header>
     <li><a href="index.html">About</a></li>

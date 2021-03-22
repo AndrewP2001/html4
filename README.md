@@ -1,1 +1,30 @@
-# html4
+<html><!DOCTYPE html>
+<head>
+<title>Combat Global Climate Change</title>
+<link href="main.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+<h1>Hello Andrew!</h1>
+
+
+
+
+
+
+    <div id="container">
+    <header>Save our Planet</header>
+    <li><a href="index.html">About</a></li>
+    <li><a href="information.html">Information</a></li>
+    <li><a href="help.html">What can you do?</a></li>
+    <li><a href="money.html">Charities</a></li>
+
+    </nav>
+    <article class="left"></article>
+    <article class="right"></article>
+    <footer>Copyright 2021 it only takes one</footer>
+
+
+    </div>
+</body>
+
+</html>
